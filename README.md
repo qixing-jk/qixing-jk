@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qixing-jk
 - 👀 I’m interested in making Mods
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning ES6
 
 **总体统计数据** | **提交统计数据**
 --- | ---
