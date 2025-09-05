@@ -10,6 +10,15 @@
   <h4>👀 I’m interested in making Mods and Web development  |  🌱 I’m currently learning ES6 and Python🐍
 </div>
 
+## 🛠️ 技术栈
+
+**主要语言**  
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/-Tampermonkey-373737?style=flat-square&logo=tampermonkey&logoColor=white)
+
+**业余开发**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Game Mod](https://img.shields.io/badge/-Mod-fcb35a?style=flat-square&logo=tampermonkey&logoColor=white)
     
 ## 📊 GitHub 数据概览
 
