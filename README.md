@@ -11,8 +11,26 @@
 </div>
 
     
-**总体统计数据** | **提交统计数据**
---- | ---
-![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=qixing-jk&show_icons=true) | [![Anurag's GitHub stats](https://github-readme-stats-colour93.vercel.app/api/top-langs/?username=qixing-jk&layout=compact&locale=cn&bg_color=45,fff2e8,fff0f6&text_color=383838&title_color=1890ff&icon_color=597Ff7)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub 数据概览
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qixing-jk)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qixing-jk&show_icons=true&theme=tokyonight&hide_border=true)
+
+</td>
+<td width="50%">
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qixing-jk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+![GitHub PR Stats](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=qixing-jk&theme=dark&status=all&min_stars=0&limit=10&sort=status%2Cstars_desc&stats=total_pr%2Cmerged_pr%2Cdisplay_pr%2Crepos_with_pr%2Crepos_with_merged_pr%2Cshowing_repos&fields=repo%2Cstars%2Cpr_title%2Cpr_number%2Cstatus%2Ccreated_date%2Cmerged_date&mode=pr-list)
+
+</td>
+</tr>
+</table>
