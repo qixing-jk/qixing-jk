@@ -38,8 +38,7 @@
 <tr>
 <td colspan="2">
 
-![GitHub PR Stats](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=qixing-jk&theme=dark&status=all&min_stars=0&limit=10&sort=status%2Cstars_desc&stats=total_pr%2Cmerged_pr%2Cdisplay_pr%2Crepos_with_pr%2Crepos_with_merged_pr%2Cshowing_repos&fields=repo%2Cstars%2Cpr_title%2Cpr_number%2Cstatus%2Ccreated_date%2Cmerged_date&mode=pr-list)
-
+![GitHub PR Stats](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=qixing-jk&theme=dark&status=all&min_stars=2&limit=10&sort=merged_desc%2Cstars_desc&stats=all&fields=repo%2Cstars%2Cpr_numbers%2Ctotal%2Cmerged%2Copen%2Cmerged_rate&mode=repo-aggregate)
 </td>
 </tr>
 </table>
