@@ -11,7 +11,11 @@
 
 
 <div align="center">
-  <h4>👀 I’m interested in making Mods and Web development  |  🌱 I’m currently learning ES6 and Python🐍
+  <h4>👀 I’m interested in making Mods and Web development  |  🌱 I’m currently learning ES6 and Python🐍</h4>
+</div>
+
+<div align="center">
+  <a href="https://trendshift.io/developers/11445" target="_blank"><img src="https://trendshift.io/api/badge/developers/11445" alt="qixing-jk | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
 
 ## 🛠️ 技术栈
